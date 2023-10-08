@@ -1,4 +1,4 @@
-### Hi there 👋, I'm linyihai.
+### Hi there 👋, I'm Lin Yihai.
 
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Rust/Python/Go.
