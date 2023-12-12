@@ -4,8 +4,6 @@
 - 💬 Ask me about anything related to Rust/Python/Go.
 - 📫 How to reach me: 1161813899@qq.com
 
-![](https://github-readme-stats.vercel.app/api?username=linyihai&show_icons=true&theme=transparent)
-
 ### My Skill Set
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
